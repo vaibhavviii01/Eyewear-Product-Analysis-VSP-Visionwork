@@ -9,6 +9,7 @@ Through Exploratory Data Analysis (EDA), clustering techniques, and predictive m
 
 Python
 Jupyter Notebook – Data processing and analysis: Pandas, NumPy – Data visualization: Matplotlib – Machine learning models: Scikit-learn – Clustering (K-Means) – Predictive modeling (Random Forest Regression)
+
 📌 Project Insights
 
 Exploratory Data Analysis (EDA):
@@ -26,12 +27,14 @@ Identified the most significant features influencing sales, such as style, frame
 Pricing Strategy:
 
 Developed a pricing model to estimate the optimal price range for top-selling products, considering factors such as brand prestige, frame material, and style popularity.
+
 📌 Key Findings:
 
 The most popular frame styles are Modified Rectangle and Rectangle, with Acetate being the preferred material.
 Key customer segments include fashion-forward urban females and mothers with children, each with distinct product preferences.
 The optimal product configurations for maximum sales involve a mix of designer styles with variations in color and material.
 The recommended price range for popular frames spans from $100 to $260, ensuring a variety of SKUs that cater to both budget-conscious and premium customers.
+
 📌 Recommendations:
 
 Implement tailored inventory strategies based on customer segment preferences.
