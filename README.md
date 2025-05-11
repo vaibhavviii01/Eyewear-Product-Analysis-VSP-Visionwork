@@ -1,5 +1,5 @@
 # Eyewear-Product-Analysis-VSP-Visionwork
-Data Science for Product Managers
+
 This project focuses on optimizing the product assortment strategy for VSP Visionworks, a leading eye care service provider in the U.S. By analyzing historical sales data and frame attributes, the project aims to identify key factors influencing eyewear purchases and develop strategies to improve inventory management, sales, and customer satisfaction.
 
 📌 Project Overview
