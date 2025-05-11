@@ -3,6 +3,7 @@
 This project focuses on optimizing the product assortment strategy for VSP Visionworks, a leading eye care service provider in the U.S. By analyzing historical sales data and frame attributes, the project aims to identify key factors influencing eyewear purchases and develop strategies to improve inventory management, sales, and customer satisfaction.
 
 📌 Project Overview
+
 Through Exploratory Data Analysis (EDA), clustering techniques, and predictive modeling, we identified customer preferences, product demand, and pricing strategies. The goal was to optimize inventory by determining the most popular frame styles, materials, and sizes, while also predicting future sales for the VSP+ Safinia series.
 
 📌 Technologies Used
